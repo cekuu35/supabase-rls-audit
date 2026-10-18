@@ -19,7 +19,7 @@ Or paste udit/rls-audit.sql into the Supabase SQL editor. Read-only; no writes.
 ## What this doesn't cover
 
 Write-side checks (with check), multi-tenant isolation, and storage.objects
-policies. For those, the full **RLS Audit Kit** () packages 7 commented SQL
+policies. For those, the full **RLS Audit Kit** ($29) packages 7 commented SQL
 audits + a 60-check workflow + report templates:
 
 https://cengokurtoglu.gumroad.com/l/supabase-rls-audit-kit
